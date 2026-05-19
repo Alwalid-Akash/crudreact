@@ -1,16 +1,34 @@
-# React + Vite
+# CRUD Operation App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple CRUD (Create, Read, Update, Delete) application built using React.js.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Add new users
+- View users list
+- Edit existing users
+- Delete users
+- Simple and clean UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js (useState Hook)
+- JavaScript (ES6)
+- HTML/CSS (inline styling)
+
+---
+
+## 📂 Project Structure
+src/
+├── assets/
+│ └── image.png
+├── components/
+│ └── Crud.jsx
+├── App.jsx
+└── main.jsx
+
+<img width="508" height="611" alt="Screenshot 2026-05-19 at 13 29 35" src="https://github.com/user-attachments/assets/487e25c2-2ee0-4e6d-b178-9843d66f1dec" />
